@@ -1,6 +1,6 @@
-stanford-ner.jar, which is located in the folder ner, must be added to Classpath
+This is my submission to the Entegra Programming Challenge
+It makes use of the open source Stanford Named Entity Recognizer (NER)
 
-Run the main method, which is located in the file "BusinessCardParser.java"
+To run the code, stanford-ner.jar - which is located in the folder ner - must be added to Classpath
 
-First, input the number of lines of input
-Next, input each line
+The program will first ask for the number of lines of input, and then the input can be entered.
